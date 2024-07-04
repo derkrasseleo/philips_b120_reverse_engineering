@@ -11,3 +11,7 @@
 - You can change it's IP and other settings via a config file (
 - To reach the rtsp stream use `admin:M100-4674448@rtsp://admin:M100-4674448@192.168.68.82:554/stream0`
  ![image](https://github.com/derkrasseleo/philips_b120_reverse_engineering/assets/16163571/323c77d2-12fc-43e2-9365-43c96794c8a3)
+
+Backside
+
+![IMG_20230208_210111 HEIC_compressed](https://github.com/derkrasseleo/philips_b120_reverse_engineering/assets/16163571/27347b4a-9abd-4ca1-80f1-21ab3968e9ce)
